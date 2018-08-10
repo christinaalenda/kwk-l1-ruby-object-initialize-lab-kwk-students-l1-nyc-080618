@@ -21,5 +21,5 @@ end
 new_name = Dog.new('cookie')
 puts new_name.name
 
-new_breed = Dog.new('mutt')
+new_breed = Dog.new('Mutt')
 puts new_breed.breed
