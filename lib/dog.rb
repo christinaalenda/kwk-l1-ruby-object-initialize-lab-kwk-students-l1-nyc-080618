@@ -13,4 +13,4 @@ class Dog
   end
 end
 
-new_name = 
+new_name = Dog.new
