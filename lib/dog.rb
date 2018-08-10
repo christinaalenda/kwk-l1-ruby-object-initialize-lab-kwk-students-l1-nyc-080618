@@ -13,4 +13,5 @@ class Dog
   end
 end
 
-new_name = Dog.new
+new_name = Dog.new('tara')
+puts new_name.name
