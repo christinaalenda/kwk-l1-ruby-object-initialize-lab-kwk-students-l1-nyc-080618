@@ -13,4 +13,4 @@ class Dog
   end
 end
 
-new
+new_name = 
