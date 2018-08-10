@@ -13,5 +13,5 @@ class Person
   end
 end
 
-new_name = Dog.new('tara')
+new_name = Person.new('tara')
 puts new_name.name
